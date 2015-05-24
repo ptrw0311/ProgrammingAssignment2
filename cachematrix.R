@@ -1,5 +1,6 @@
-## Put comments here that give an overall description of what your
-## functions do
+## The following function calculate the inverseMatrix and save it to cache
+## when user try to calculate the inversematrix next time, the saved value
+## is returned , no need  time-consuming computations.
 
 ## This function creates a special "matrix" object, which is really a list 
 ## containing a function to
